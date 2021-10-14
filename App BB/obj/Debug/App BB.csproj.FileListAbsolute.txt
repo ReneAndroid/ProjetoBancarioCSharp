@@ -1,0 +1,7 @@
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\bin\Debug\App BB.exe.config
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\bin\Debug\App BB.exe
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\bin\Debug\App BB.pdb
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\obj\Debug\App BB.csproj.AssemblyReference.cache
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\obj\Debug\App BB.csproj.CoreCompileInputs.cache
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\obj\Debug\App BB.exe
+C:\Users\ReneAndroid.apk\source\repos\App BB\App BB\obj\Debug\App BB.pdb
